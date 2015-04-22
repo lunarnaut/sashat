@@ -1,0 +1,10 @@
+Cmp-Mod V01 Created by Cvpcb 0.201504211001+5616~22~ubuntu15.04.1-product   date = Tue 21 Apr 2015 10:40:01 PM PDT
+
+BeginCmp
+TimeStamp = /553731C3;
+Reference = U1;
+ValeurCmp = HMC358;
+IdModule  = hittite:Hittite_MSOP8;
+EndCmp
+
+EndListe
