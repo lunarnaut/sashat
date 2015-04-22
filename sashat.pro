@@ -1,4 +1,4 @@
-update=4/21/2015 7:32:12 PM
+update=Tue 21 Apr 2015 10:25:12 PM PDT
 last_client=kicad
 [pcbnew]
 version=1
@@ -41,3 +41,5 @@ LibName17=valves
 [eeschema]
 version=1
 LibDir=lib
+[eeschema/libraries]
+LibName1=lib/hittite
