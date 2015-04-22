@@ -1,5 +1,5 @@
-update=Tue 21 Apr 2015 07:17:31 PM PDT
-last_client=pcbnew
+update=4/21/2015 7:32:12 PM
+last_client=kicad
 [pcbnew]
 version=1
 LastNetListRead=
@@ -38,3 +38,6 @@ LibName14=led
 LibName15=dip_sockets
 LibName16=pga_sockets
 LibName17=valves
+[eeschema]
+version=1
+LibDir=lib
