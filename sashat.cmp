@@ -10,7 +10,7 @@ EndCmp
 BeginCmp
 TimeStamp = /5539B8CA;
 Reference = U2;
-ValeurCmp = HMC526LC4;
+ValeurCmp = HMC525LC4;
 IdModule  = hittite:LC4;
 EndCmp
 
