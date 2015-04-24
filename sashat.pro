@@ -1,4 +1,4 @@
-update=Tue 21 Apr 2015 10:25:12 PM PDT
+update=Thu 23 Apr 2015 08:37:34 PM PDT
 last_client=kicad
 [pcbnew]
 version=1
@@ -43,3 +43,4 @@ version=1
 LibDir=lib
 [eeschema/libraries]
 LibName1=lib/hittite
+LibName2=power

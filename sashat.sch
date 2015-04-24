@@ -1,5 +1,6 @@
 EESchema Schematic File Version 2
 LIBS:hittite
+LIBS:power
 LIBS:sashat-cache
 EELAYER 25 0
 EELAYER END
